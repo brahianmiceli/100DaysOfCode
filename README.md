@@ -24,6 +24,6 @@ Los principales objetivos de este repositorio son:
 
 ## <div align="center">Recursos Adicionales</div>
 
-## <div align="center"> Tambien seguire subiendo mi avancen en twitter: @JIMICELI</div>
+<div align="center"> Tambien seguire subiendo mi avancen en twitter: @JIMICELI</div>
 
 ## <div align="center">¡Gracias por visitar este repositorio!</div>
