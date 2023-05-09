@@ -22,4 +22,4 @@ Los principales objetivos de este repositorio son:
 4. Crear y compartir proyectos de programación que sean útiles y educativos.
 5. Fomentar la colaboración y el intercambio de conocimientos entre los participantes del reto.
 
-# ¡Gracias por visitar este repositorio y acompañarme en mi viaje de 100 días de codificación constante!
+## <div align="center">¡Gracias por visitar este repositorio!</div>
