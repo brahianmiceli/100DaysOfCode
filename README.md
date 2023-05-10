@@ -22,4 +22,8 @@ Los principales objetivos de este repositorio son:
 4. Crear y compartir proyectos de programación que sean útiles y educativos.
 5. Fomentar la colaboración y el intercambio de conocimientos entre los participantes del reto.
 
+## <div align="center">Recursos Adicionales</div>
+
+<div align="center"> Tambien seguire subiendo mi avancen en twitter: @JIMICELI</div>
+
 ## <div align="center">¡Gracias por visitar este repositorio!</div>
