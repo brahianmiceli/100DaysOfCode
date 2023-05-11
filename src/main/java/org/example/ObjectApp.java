@@ -1,6 +1,5 @@
 package org.example;
 
-import java.io.InputStream;
 import java.util.ArrayList;
 import java.util.Scanner;
 
@@ -9,7 +8,7 @@ public class ObjectApp {
 
         Scanner sc = new Scanner(System.in);
 
-        ArrayList<arraylistobj> aObj = new ArrayList<arraylistobj>();
+        ArrayList<ArraylistObj> aObj = new ArrayList<ArraylistObj>();
 
         System.out.println("Welcome to Store Food");
         System.out.println("What do u want add? : ");
@@ -21,15 +20,15 @@ public class ObjectApp {
 
         switch (outClient) {
             case 1:
-                aObj.add(new arraylistobj("Hamburgers","Coca Cola"));
+                aObj.add(new ArraylistObj("Hamburgers","Coca Cola"));
                 System.out.println("Ok, Added : " + aObj.get(0).getFoodFirst() + " " + aObj.get(0).getWaterFirst());
                 break;
             case 2:
-                aObj.add(new arraylistobj("Pizza","Coca Cola"));
+                aObj.add(new ArraylistObj("Pizza","Coca Cola"));
                 System.out.println("Ok, Added : " + aObj.get(0).getFoodFirst() + " " + aObj.get(0).getWaterFirst());
                 break;
             case 3 :
-                aObj.add(new arraylistobj("HotDog","Coca Cola"));
+                aObj.add(new ArraylistObj("HotDog","Coca Cola"));
                 System.out.println("Ok, Added : " + aObj.get(0).getFoodFirst() + " " + aObj.get(0).getWaterFirst());
                 break;
             default:

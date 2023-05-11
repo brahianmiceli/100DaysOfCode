@@ -1,11 +1,11 @@
 package org.example;
 
-public class arraylistobj {
+public class ArraylistObj {
     private String foodFirst;
     private String waterFirst;
 
 
-    public arraylistobj(String foodFirst, String waterFirst) {
+    public ArraylistObj(String foodFirst, String waterFirst) {
         this.foodFirst = foodFirst;
         this.waterFirst = waterFirst;
     }
