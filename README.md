@@ -1,29 +1,29 @@
-# <div align="center"> Reto de 100DaysOfCode ✨ </div>  
+# <div align="center"> 100DaysOfCode Challenge ✨ </div>  
 
-<div align="center"> ¡Bienvenido al repositorio del Reto de 100DaysOfCode! </div>
+<div align="center"> Welcome to the 100DaysOfCode Challenge repository! </div>
 
-## <div align="center"> ¿Qué es el Reto de 100DaysOfCode? ⁉ </div>
+## <div align="center"> What is the 100DaysOfCode Challenge? ⁉ </div>
 
-<div align="center"> El Reto de 100DaysOfCode es una iniciativa diseñada para ayudarte a mejorar tus habilidades de programación y desarrollar un hábito diario de aprendizaje. Durante 100 días consecutivos, te desafiarás a ti mismo(a) a codificar durante al menos una hora al día. Esta dedicación constante te permitirá adquirir conocimientos sólidos, enfrentar nuevos desafíos y acelerar tu crecimiento como programador(a).</div>
+<div align="center"> The 100DaysOfCode Challenge is an initiative designed to help you improve your programming skills and develop a daily learning habit. For 100 consecutive days, you will challenge yourself to code for at least one hour a day. This constant dedication will allow you to acquire solid knowledge, face new challenges and accelerate your growth as a programmer. </div>
 
-## <div align="center">Sobre este repositorio</div>
+## <div align="center">About this repository</div>
 
-<div align="center"> En este repositorio, encontrarás mi registro personal del Reto de 100DaysOfCode. Aquí documentaré mi progreso diario, compartiendo mis experiencias, aprendizajes y proyectos realizados durante el reto. Este espacio servirá como un diario digital donde podré seguir mi evolución a lo largo de los 100 días. 
+<div align="center"> In this repository, you will find my personal log of the 100DaysOfCode Challenge. Here I will document my daily progress, sharing my experiences, learnings and projects done during the challenge. This space will serve as a digital diary where I will be able to follow my evolution throughout the 100 days. 
 
-Además de mi registro personal, este repositorio también contendrá los proyectos y ejercicios de programación que realice durante el reto. Estos proyectos abarcarán una amplia variedad de lenguajes de programación, tecnologías y conceptos, y podrás explorarlos para obtener inspiración y aprender de ellos. </div>
+In addition to my personal log, this repository will also contain the projects and programming exercises I did during the challenge. These projects will cover a wide variety of programming languages, technologies and concepts, and you will be able to explore them to get inspiration and learn from them. </div>
 
-## <div align="center">Objetivos del repositorio</div>
+## <div align="center">Repository objectives</div>
 
-Los principales objetivos de este repositorio son:
+The main objectives of this repository are:
 
-1. Documentar mi progreso diario en el Reto de 100DaysOfCode.
-2. Compartir mis experiencias y aprendizajes con la comunidad de programadores.
-3. Inspirar a otros programadores a unirse al reto y mantenerse comprometidos con su crecimiento profesional.
-4. Crear y compartir proyectos de programación que sean útiles y educativos.
-5. Fomentar la colaboración y el intercambio de conocimientos entre los participantes del reto.
+1. to document my daily progress in the 100DaysOfCode Challenge.
+2. To share my experiences and learnings with the community of programmers.
+3. To inspire other programmers to join the challenge and stay committed to their professional growth.
+4. Create and share programming projects that are useful and educational.
+5. Encourage collaboration and knowledge sharing among challenge participants.
 
-## <div align="center">Recursos Adicionales</div>
+## <div align="center">Additional Resources</div>
 
-<div align="center"> Tambien seguire subiendo mi avancen en twitter: @JIMICELI</div>
+<div align="center"> I will also upload my progress on twitter: @JIMICELI </div>
 
-## <div align="center">¡Gracias por visitar este repositorio!</div>
+## <div align="center">Thanks for visiting this repository!</div>
