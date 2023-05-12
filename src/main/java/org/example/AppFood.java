@@ -15,6 +15,7 @@ public class AppFood {
         System.out.println("1" + " - Hamburgers and Coca Cola");
         System.out.println("2" + " - Pizza And Coca cola");
         System.out.println("3" + " - HotDog And Coca Cola" );
+        //System.out.println("0" + "food and water" );
 
         int outClient = sc.nextInt();
 
