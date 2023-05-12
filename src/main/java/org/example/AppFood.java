@@ -3,7 +3,7 @@ package org.example;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class AppFood {
+public class AppFood { //17 Days Of Code
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
