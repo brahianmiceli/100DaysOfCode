@@ -13,8 +13,8 @@ public class AppFood {
         System.out.println("Welcome to Store Food");
         System.out.println("What do u want add? : ");
         System.out.println("1" + " - Hamburgers and Coca Cola");
-        System.out.println("2" + " - Pizza And Coca cola");
-        System.out.println("3" + " - HotDog And Coca Cola" );
+        System.out.println("2" + " - Pizza and Coca cola");
+        System.out.println("3" + " - HotDog and Coca Cola" );
         //System.out.println("0" + "food and water" );
 
         int outClient = sc.nextInt();
@@ -35,6 +35,5 @@ public class AppFood {
                     + " and "
                     + aObj.get(i).getWaterFirst());
         }
-
     }
 }
