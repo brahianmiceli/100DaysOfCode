@@ -24,6 +24,6 @@ The main objectives of this repository are:
 
 ## <div align="center">Additional Resources</div>
 
-<div align="center"> I will also upload my progress on twitter: @JIMICELI </div>
+<div align="center"> I will also upload my progress on twitter: @jimiceli</div>
 
 ## <div align="center">Thanks for visiting this repository!</div>
