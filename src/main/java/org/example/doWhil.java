@@ -6,13 +6,13 @@ public class doWhil { //use the do while
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
-        int number;
+        int numbers;
 
         do {
             System.out.println("In a number: ");
-            number = sc.nextInt();
+            numbers = sc.nextInt();
         }
-        while (number <= 500);
+        while (numbers <= 500);
     }
 }
 
