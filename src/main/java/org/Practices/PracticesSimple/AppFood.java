@@ -15,7 +15,7 @@ public class AppFood { //17 Days Of Code
         System.out.println("1" + " - Hamburgers and Coca Cola");
         System.out.println("2" + " - Pizza and Coca cola");
         System.out.println("3" + " - HotDog and Coca Cola" );
-        //System.out.println("0" + "food and water" );
+
 
         int outClient = sc.nextInt();
 
