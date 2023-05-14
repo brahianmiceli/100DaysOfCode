@@ -1,6 +1,6 @@
 package org.Practices.PracticesSimple;
 
-public class typeofContructors { //5 Days Of Code
+public class typeofContructors { // 5 Days Of Code
 
     private String name;
     private String lastname;
