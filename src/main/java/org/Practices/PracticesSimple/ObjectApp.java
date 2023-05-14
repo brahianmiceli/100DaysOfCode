@@ -3,7 +3,7 @@ package org.Practices.PracticesSimple;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class ObjectApp {
+public class ObjectApp { // 16 Days Of Code
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
