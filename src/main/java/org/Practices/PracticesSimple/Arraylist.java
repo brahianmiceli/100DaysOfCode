@@ -3,7 +3,7 @@ package org.Practices.PracticesSimple;
 
 import java.util.ArrayList;
 // PRACTICES WITH ARRAYLIST 
-public class Arraylist {
+public class Arraylist { //15 Days Of Code
     public static void main(String[] args) {
 
         ArrayList<String> f = new ArrayList<String>();
