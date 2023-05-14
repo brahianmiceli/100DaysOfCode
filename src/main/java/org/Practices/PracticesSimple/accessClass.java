@@ -1,6 +1,6 @@
 package org.Practices.PracticesSimple;
 
-public class accessClass {
+public class accessClass { //4 Days Of Code
 
     String name;
     public String lastname;
