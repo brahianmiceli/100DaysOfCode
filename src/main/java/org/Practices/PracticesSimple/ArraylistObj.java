@@ -1,6 +1,6 @@
 package org.Practices.PracticesSimple;
 
-public class ArraylistObj {
+public class ArraylistObj { //12 Days Of Code 
     private String foodFirst;
     private String waterFirst;
 
