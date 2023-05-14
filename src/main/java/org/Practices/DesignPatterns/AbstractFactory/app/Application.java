@@ -1,0 +1,20 @@
+package org.Practices.DesignPatterns.AbstractFactory.app;
+
+import org.Practices.DesignPatterns.AbstractFactory.buttons.Button;
+import org.Practices.DesignPatterns.AbstractFactory.checkboxes.Checkbox;
+import org.Practices.DesignPatterns.AbstractFactory.factories.GUIFactory;
+
+public class Application {
+    private Button button;
+    private Checkbox checkbox;
+
+    public Application(GUIFactory factory) {
+        button = factory.createButton();
+        checkbox = factory.createCheckbox();
+    }
+
+    public void paint() {
+        button.paint();
+        checkbox.paint();
+    }
+}

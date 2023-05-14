@@ -1,4 +1,4 @@
-package org.example;
+package org.Practices.PracticesSimple;
 
 public class Github {
     //18 Days of Code

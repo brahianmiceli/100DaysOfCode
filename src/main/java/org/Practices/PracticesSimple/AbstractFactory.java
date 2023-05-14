@@ -1,4 +1,4 @@
-package org.example;
+package org.Practices.PracticesSimple;
 
 public class AbstractFactory { // Desing Patterns -> 20 Days of Code.
 

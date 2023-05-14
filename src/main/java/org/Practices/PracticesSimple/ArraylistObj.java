@@ -1,4 +1,4 @@
-package org.example;
+package org.Practices.PracticesSimple;
 
 public class ArraylistObj {
     private String foodFirst;

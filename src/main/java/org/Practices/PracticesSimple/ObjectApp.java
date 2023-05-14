@@ -1,4 +1,4 @@
-package org.example;
+package org.Practices.PracticesSimple;
 
 import java.util.ArrayList;
 import java.util.Scanner;
