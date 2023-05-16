@@ -1,6 +1,6 @@
 package org.Practices.PracticesSimple;
 
-public class Setters {
+public class Setters { // 7 Days Of Code
     private String name;
     private String lastname;
 

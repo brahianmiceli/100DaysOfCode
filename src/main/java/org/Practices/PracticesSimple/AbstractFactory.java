@@ -1,10 +1,10 @@
 package org.Practices.PracticesSimple;
 
-public class AbstractFactory { //  21 Days of Code.
+public class AbstractFactory { // Desing Patterns -> 20 Days of Code.
 
     // Practice with Design Patterns in Java.
-    // pros and cros the use Abstract Factory
+    // This moment, im practicing with Abstract Factory.
 
 
-    //
+    // https://github.com/jeanbmiceli/designPatternsinJava
 }

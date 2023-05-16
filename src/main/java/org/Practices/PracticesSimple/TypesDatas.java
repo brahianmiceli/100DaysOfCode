@@ -1,6 +1,6 @@
 package org.Practices.PracticesSimple;
 
-public class TypesDatas {
+public class TypesDatas { // 3 Days Of Code
     private String name;
     private int year;
     private long phone;
