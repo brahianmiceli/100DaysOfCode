@@ -1,5 +1,8 @@
 package org.Practices.DesignPatterns.AbstractFactoryExample;
 
+import java.time.Clock;
+import java.time.LocalDate;
+
 public class ServiceSoftwareEducational implements ServiceInformatics {
 
     @Override
@@ -9,7 +12,7 @@ public class ServiceSoftwareEducational implements ServiceInformatics {
 
     @Override
     public void indicarFechaEntrega() {
-        System.out.println("Se ha fijado como fecha de entrega el día 25/03/2014.");
+        System.out.println("Se ha fijado como fecha de entrega el día 25/03/2014." + " ssdsd " + LocalDate.now());
     }
 
     @Override
