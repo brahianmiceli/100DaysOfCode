@@ -5,18 +5,18 @@ public class ServiceWebsites implements ServiceInformatics {
 
     @Override
     public void assignWork() {
-            System.out.println("El personal encargado del desarrollo de sitios web ha aceptado el trabajo.");
+            System.out.println("The website development staff has accepted the job.");
     }
 
 
     @Override
     public void indicateDeliveryDate() {
-        System.out.println("El sitio web con Responsive Design será terminado a más tardar el día 26/04/2014.");
+        System.out.println("The Responsive Design website will be completed no later than 04/26/2014.");
     }
 
     @Override
     public void informAboutPayment() {
-        System.out.println("El monto a pagar no incluye el pago por dominio y hosting.");
+        System.out.println("The amount to be paid does not include domain and hosting fees.");
     }
 }
 

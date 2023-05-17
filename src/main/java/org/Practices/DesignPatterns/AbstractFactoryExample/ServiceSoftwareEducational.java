@@ -1,22 +1,20 @@
 package org.Practices.DesignPatterns.AbstractFactoryExample;
 
-import java.time.Clock;
-import java.time.LocalDate;
 
 public class ServiceSoftwareEducational implements ServiceInformatics {
 
     @Override
     public void assignWork() {
-        System.out.println("Nuestros programadores han sido informados del programa que deben realizar.");
+        System.out.println("Our programmers have been informed of the program to be carried out.");
     }
 
     @Override
     public void indicateDeliveryDate() {
-        System.out.println("Se ha fijado como fecha de entrega el día 25/03/2014.");
+        System.out.println("The delivery date has been set as 03/25/2014.");
     }
 
     @Override
     public void informAboutPayment() {
-        System.out.println("El monto a pagar será proporcional a la cantidad de estudiantes que harán uso del software.");
+        System.out.println("The amount to be paid will be proportional to the number of students who will use the software.");
     }
 }
