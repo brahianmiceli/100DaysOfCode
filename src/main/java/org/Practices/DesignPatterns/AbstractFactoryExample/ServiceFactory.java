@@ -1,5 +1,5 @@
 package org.Practices.DesignPatterns.AbstractFactoryExample;
 
 public interface ServiceFactory {
-    public ServiceInformatics crearServicio();
+    public ServiceInformatics createService();
 }

@@ -2,7 +2,7 @@ package org.Practices.DesignPatterns.AbstractFactoryExample;
 public class WebsiteFactory implements ServiceFactory {
 
     @Override
-    public ServiceInformatics crearServicio() {
+    public ServiceInformatics createService() {
         return new ServiceWebsites();
     }
 

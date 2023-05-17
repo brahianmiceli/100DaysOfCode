@@ -1,11 +1,5 @@
 package org.Practices.DesignPatterns.AbstractFactoryExample;
 
-import org.Practices.DesignPatterns.AbstractFactoryExample.DesignFactory;
-import org.Practices.DesignPatterns.AbstractFactoryExample.ServiceFactory;
-import org.Practices.DesignPatterns.AbstractFactoryExample.ServiceInformatics;
-import org.Practices.DesignPatterns.AbstractFactoryExample.SoftwareFactory;
-import org.Practices.DesignPatterns.AbstractFactoryExample.WebsiteFactory;
-
 import java.util.Scanner;
 
 public class Main {
@@ -37,7 +31,7 @@ public class Main {
     }
     
     public static void useService(ServiceFactory factory) {
-        ServiceInformatics servicio = factory.crearServicio();
+        ServiceInformatics servicio = factory.createService();
         servicio.asignarTrabajo();
         servicio.indicarFechaEntrega();
         servicio.informarSobrePago();
