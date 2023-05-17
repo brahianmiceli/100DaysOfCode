@@ -2,18 +2,23 @@ package org.Practices.DesignPatterns.AbstractFactoryExample;
 public class ServiceDesign implements ServiceInformatics {
 
     @Override
-    public void asignarTrabajo() {
-        System.out.println("El trabajado ha sido asignado a diseñadores gráficos disponibles.");
+    public void assignWork() {
+        System.out.println(
+                "1"
+        );
     }
 
     @Override
-    public void indicarFechaEntrega() {
-        System.out.println("Ellos han determinado terminar el trabajo como máximo para el día 17/07/2014.");
+    public void indicateDeliveryDate() {
+        System.out.println(
+                "2"
+        );
     }
 
     @Override
-    public void informarSobrePago() {
-        System.out.println("Debe realizar el pago en efectivo al momento de recoger el logo completamente terminado.");
+    public void informAboutPayment() {
+        System.out.println(
+                "3"
+        );
     }
-
 }

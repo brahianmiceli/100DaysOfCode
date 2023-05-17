@@ -31,21 +31,21 @@ public class Main {
     }
     
     public static void useService(ServiceFactory factory) {
-        ServiceInformatics servicio = factory.createService();
-        servicio.asignarTrabajo();
-        servicio.indicarFechaEntrega();
-        servicio.informarSobrePago();
+        ServiceInformatics services = factory.createService();
+        services.assignWork();
+        services.informAboutPayment();
+        services.indicateDeliveryDate();
     }
     
     public static int queryService() {
         System.out.print(
-                "MENÚ DE OPCIONES\n"
+                "MENU OF OPTIONS: \n"
               + "---- -- -------->\n"
-              + "1. Solicitar servicio de diseño gráfico.\n"
-              + "2. Solicitar desarrollo de software educacional.\n"
-              + "3. Solicitar creación de sitios web.\n"
-              + "4. Cerrar programa.\n"
-              + "Seleccione opción: "
+              + "1. Request graphic design service.\n"
+              + "2. Request educational software development.\n"
+              + "3. Request website creation.\n"
+              + "4. Close Program.\n"
+              + "Select option: "
         );
         return Integer.parseInt( S.nextLine() );
     }
