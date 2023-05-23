@@ -1,6 +1,6 @@
 package org.Practices.DesignPatterns.Factory.app;
 
-import org.Practices.DesignPatterns.Factory.Impl.InterfaceMuebles;
+import org.Practices.DesignPatterns.Factory.Impl.IFurniture;
 
 public class Client {
 
@@ -9,9 +9,9 @@ public class Client {
         Factory f = new Factory();
 
         System.out.println("Welcome to Program");
-        InterfaceMuebles m = f.getCrearMueble();
+        IFurniture m = f.getCrearMueble();
         m.crearMesa();
-        m.crearSilla();
+        m.createChair();
 
 
     }

@@ -1,17 +1,17 @@
 package org.Practices.DesignPatterns.Factory.app;
 
 
-import org.Practices.DesignPatterns.Factory.Factory.MuebleAntigua;
-import org.Practices.DesignPatterns.Factory.Factory.MuebleModerna;
-import org.Practices.DesignPatterns.Factory.Factory.MuebleVariante;
-import org.Practices.DesignPatterns.Factory.Factory.NoAsignoMuebles;
-import org.Practices.DesignPatterns.Factory.Impl.InterfaceMuebles;
+import org.Practices.DesignPatterns.Factory.Factory.FurnitureOld;
+import org.Practices.DesignPatterns.Factory.Factory.FurnitureModern;
+import org.Practices.DesignPatterns.Factory.Factory.FurnitureVariant;
+import org.Practices.DesignPatterns.Factory.Factory.NotCreateFurniture;
+import org.Practices.DesignPatterns.Factory.Impl.IFurniture;
 
 import java.util.Scanner;
 
 public class Factory {
 
-    public InterfaceMuebles getCrearMueble(){
+    public IFurniture getCrearMueble(){
         Scanner sc = new Scanner(System.in);
 
         System.out.println("what kind of furniture do you like: Modern , old, variant");
@@ -19,16 +19,16 @@ public class Factory {
         String in = sc.nextLine();
 
         if (in == null){
-            return new NoAsignoMuebles();
+            return new NotCreateFurniture();
         }
         if (in.equalsIgnoreCase("modern")){
-            return new MuebleModerna();
+            return new FurnitureModern();
         } else if (in.equalsIgnoreCase("old")) {
-            return new MuebleAntigua();
+            return new FurnitureOld();
         } else if (in.equalsIgnoreCase("variant")) {
-            return new MuebleVariante();
+            return new FurnitureVariant();
         }
-        return new NoAsignoMuebles();
+        return new NotCreateFurniture();
     }
 
 

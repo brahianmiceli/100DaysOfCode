@@ -1,11 +1,11 @@
 package org.Practices.DesignPatterns.Factory.Factory;
 
-import org.Practices.DesignPatterns.Factory.Impl.InterfaceMuebles;
+import org.Practices.DesignPatterns.Factory.Impl.IFurniture;
 
-public class MuebleModerna implements InterfaceMuebles {
+public class FurnitureModern implements IFurniture {
 
     @Override
-    public void crearSilla() {
+    public void createChair() {
         System.out.println("Create chair modern");
     }
 

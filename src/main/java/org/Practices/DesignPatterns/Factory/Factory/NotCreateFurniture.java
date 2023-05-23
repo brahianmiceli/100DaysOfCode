@@ -1,10 +1,10 @@
 package org.Practices.DesignPatterns.Factory.Factory;
 
-import org.Practices.DesignPatterns.Factory.Impl.InterfaceMuebles;
+import org.Practices.DesignPatterns.Factory.Impl.IFurniture;
 
-public class NoAsignoMuebles implements InterfaceMuebles {
+public class NotCreateFurniture implements IFurniture {
     @Override
-    public void crearSilla() {
+    public void createChair() {
         System.out.println("Not create chair");
     }
 
