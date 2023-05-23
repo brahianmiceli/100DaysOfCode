@@ -6,11 +6,11 @@ public class MuebleModerna implements InterfaceMuebles {
 
     @Override
     public void crearSilla() {
-        System.out.println("se creo una silla moderna");
+        System.out.println("Create chair modern");
     }
 
     @Override
     public void crearMesa() {
-        System.out.println("se creo una mesa morderna");
+        System.out.println("Create table modern");
     }
 }

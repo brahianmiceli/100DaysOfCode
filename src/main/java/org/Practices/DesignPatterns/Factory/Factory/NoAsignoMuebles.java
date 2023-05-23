@@ -5,11 +5,11 @@ import org.Practices.DesignPatterns.Factory.Impl.InterfaceMuebles;
 public class NoAsignoMuebles implements InterfaceMuebles {
     @Override
     public void crearSilla() {
-        System.out.println("no se creo silla");
+        System.out.println("Not create chair");
     }
 
     @Override
     public void crearMesa() {
-        System.out.println("no se creo mesa");
+        System.out.println("Not create table");
     }
 }
