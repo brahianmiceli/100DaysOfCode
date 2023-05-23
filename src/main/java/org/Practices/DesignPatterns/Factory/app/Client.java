@@ -8,7 +8,7 @@ public class Client {
 
         Factory f = new Factory();
 
-        System.out.println("Bievenidos");
+        System.out.println("Welcome to Program");
         InterfaceMuebles m = f.getCrearMueble();
         m.crearMesa();
         m.crearSilla();
