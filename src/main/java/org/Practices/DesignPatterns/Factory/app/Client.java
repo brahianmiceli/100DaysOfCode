@@ -10,7 +10,7 @@ public class Client {
 
         System.out.println("Welcome to Program");
         IFurniture m = f.getCrearMueble();
-        m.crearMesa();
+        m.createTable();
         m.createChair();
 
 

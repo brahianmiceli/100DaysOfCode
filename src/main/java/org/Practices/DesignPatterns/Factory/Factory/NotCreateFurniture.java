@@ -9,7 +9,7 @@ public class NotCreateFurniture implements IFurniture {
     }
 
     @Override
-    public void crearMesa() {
+    public void createTable() {
         System.out.println("Not create table");
     }
 }

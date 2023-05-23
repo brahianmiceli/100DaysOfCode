@@ -9,7 +9,7 @@ public class FurnitureOld implements IFurniture {
     }
 
     @Override
-    public void crearMesa() {
+    public void createTable() {
         System.out.println("Create table old");
     }
 }

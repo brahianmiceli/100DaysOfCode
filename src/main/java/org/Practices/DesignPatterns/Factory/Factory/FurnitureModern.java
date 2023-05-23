@@ -10,7 +10,7 @@ public class FurnitureModern implements IFurniture {
     }
 
     @Override
-    public void crearMesa() {
+    public void createTable() {
         System.out.println("Create table modern");
     }
 }
