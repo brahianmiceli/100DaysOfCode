@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 public class Factory {
 
-    public IFurniture getCrearMueble(){
+    public IFurniture getCreateFurniture(){
         Scanner sc = new Scanner(System.in);
 
         System.out.println("what kind of furniture do you like: Modern , old, variant");

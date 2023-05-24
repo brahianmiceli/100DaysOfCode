@@ -9,7 +9,8 @@ public class Client {
         Factory f = new Factory();
 
         System.out.println("Welcome to Program");
-        IFurniture m = f.getCrearMueble();
+
+        IFurniture m = f.getCreateFurniture();
         m.createTable();
         m.createChair();
 
